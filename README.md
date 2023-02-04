@@ -1,2 +1,2 @@
 # EEG
-EEG Review
+EEG Recordings - more to come!
